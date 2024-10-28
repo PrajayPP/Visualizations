@@ -72,9 +72,9 @@ This is the output we get after running the code.
 ![Alt text](obj_reko.png)
 
 We can also see in the AWS console that a queue has been created where we can retrieve the results using the "Polling for messages" button present below.
-![Alt Text](SQS.png)
-
 ![Alt Text](SQS1.png)
+
+![Alt Text](SQS.png)
 
 
 Run text detection with output file(EC2-B):
